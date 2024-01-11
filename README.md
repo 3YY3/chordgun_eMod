@@ -1,7 +1,7 @@
 # Work still in progress
 
 # Description
-This is a modified version of Chordgun script based on the implementation by reaper-sid (https://github.com/reaper-sid/ChordGun/blob/release/ChordGun/pkg/pandabot_ChordGun.lua)
+This is a modified version of [reaper-sid's Chordgun script](https://github.com/reaper-sid/ChordGun)
 
 Besides changes made to the original pandabot's script by reaper-sid (such as midi text events with key changes and chords, and buttons for saving the key and switching the notes off) I made several modifications.
 
